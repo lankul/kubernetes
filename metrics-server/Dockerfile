@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-staging-metrics-server/metrics-server:master
+FROM gcr.io/k8s-staging-metrics-server/metrics-server:0.5.0
